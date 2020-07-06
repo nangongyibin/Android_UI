@@ -1,2 +1,2 @@
-include ':pulltorefresh'
+include ':pulltorefresh', ':pinnedsectionlistview'
 rootProject.name='UI'
