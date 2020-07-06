@@ -1,4 +1,4 @@
-package com.ngyb.ui;
+package com.ngyb.pulltorefresh;
 
 import org.junit.Test;
 
