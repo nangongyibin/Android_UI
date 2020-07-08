@@ -1,2 +1,2 @@
-include ':pulltorefresh', ':pinnedsectionlistview', ':photoview', ':customshapeimageview'
+include ':pulltorefresh', ':pinnedsectionlistview', ':photoview', ':customshapeimageview', ':mpandroidchart'
 rootProject.name='UI'
